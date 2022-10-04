@@ -5,6 +5,8 @@
 
 - 📫 Comment me contacter **noaprevel02@gmail.com**
 
+<h3 align="center">🚧 Toujours en développement 🚧</h3>
+
 <h3 align="left">Retrouvez-moi sur :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/noa prevel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noa prevel" height="30" width="40" /></a>
