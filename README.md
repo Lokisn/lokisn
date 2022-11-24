@@ -1,7 +1,7 @@
 <h1 align="center">Salutation👋 !</h1>
 <h3 align="center">Je suis Noa, un apprenti programmeur français</h3>
 
-- 👨‍💻 Tous mes projets sont disponibles sur [https://tim.cgmatane.qc.ca/etudiants/2020/preveln/](https://tim.cgmatane.qc.ca/etudiants/2020/preveln/)
+- 👨‍💻 Tous mes projets sont disponibles sur [https://tim.cgmatane.qc.ca/etudiants/2020/preveln/]([https://tim.cgmatane.qc.ca/etudiants/2020/preveln/](https://tim.cgmatane.qc.ca/etudiants/2020/preveln/portfolio/))
 
 - 📫 Comment me contacter **noaprevel02@gmail.com**
 
